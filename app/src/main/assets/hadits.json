@@ -1,0 +1,375 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Hadits Niat",
+      "arabic": "إِنمَا الأعْمَالُ باِلنِّيَةِ",
+      "latin": "Innamal a’maalu bin niyyaat. (HR Bukhari)",
+      "translation": "Setiap amal sesuai dengan niatnya"
+    },
+    {
+      "id": 2,
+      "title": "Hadits Keutamaan Doa",
+      "arabic": "الَدُّعَاءُ مُخُّ اْلِعبَادَةِ",
+      "latin": "Ad du’aau mukhkhul ibaadah. (HR Tirmizi)",
+      "translation": "Doa adalah inti ibadah"
+    },
+    {
+      "id": 3,
+      "title": "Hadits Takut Kepada Allah",
+      "arabic": "اِتَّقِ اللَّهَ حَيْثُ مَا كُنْتَ",
+      "latin": "Ittaqillaha haitsu maa kunta. (HR Tirmizi)",
+      "translation": "Takutlah kepada Allah dimana saja kamu berada"
+    },
+    {
+      "id": 4,
+      "title": "Hadits Mengajak Kebaikan",
+      "arabic": "لدَّالُّ عَلَى الْخَيْرِ كَفَاعِلِهِا",
+      "latin": "Ad daallu ‘alal khairi kafaa’ilihi. (HR Tirmizi)",
+      "translation": "Orang yang mengajak kebaikan mendapat pahala yang sama dengan orang yang diajaknya"
+    },
+    {
+      "id": 5,
+      "title": "Hadits Membangun Masjid",
+      "arabic": "مَنْ بَنىَ لِلّهِ مَسْجِدًا بَنىَ اللهُ لَهُ بَيْةً فِي الجَنَّةِ",
+      "latin": "Man banaa lillahi masjidan banallahu lahuu baytan fil jannah. (HR Muslim)",
+      "translation": "Barangsiapa membangun masjid karena Allah, maka Allah akan bangunkan rumah baginya di dalam surga"
+    },
+    {
+      "id": 6,
+      "title": "Hadits Sedekah Berkata Baik",
+      "arabic": "الْكَلِمَةُ الطَّيِّبَةُ صَدَقَةٌ",
+      "latin": "Al kalimatut thayyibatu shadaqah. (HR Bukhari)",
+      "translation": "Berkata yang baik adalah sedekah"
+    },
+    {
+      "id": 7,
+      "title": "Hadits Keutamaan Mengamalkan Al Qur'an",
+      "arabic": "خَيْرُكُمْ مَنْ تَعَلَّمَ اْلقُرْآنَ وَعَلَّمَهُ",
+      "latin": "Khairukum man ta’allamal Qur’aana wa ‘allamahu. (HR Bukhari)",
+      "translation": "Sebaik-baik orang di antara kamu adalah orang yang belajar Al Qur’an dan mengajarkannya"
+    },
+    {
+      "id": 8,
+      "title": "Hadits Kunci Surga",
+      "arabic": "مِفْتَاحُ الْجَنَّةِ الصَّلاَةُ",
+      "latin": "Miftaahul Jannati As Sholaah. (HR Ahmad)",
+      "translation": "Kunci surga adalah shalat"
+    },
+    {
+      "id": 9,
+      "title": "Hadits Kebersihan",
+      "arabic": "الطُّهُورُ شَطْرُ الإِيمَانِ",
+      "latin": "At thuhuuru syathrul imaan. (HR Muslim)",
+      "translation": "Kebersihan adalah sebagian iman"
+    },
+    {
+      "id": 10,
+      "title": "Hadits Untuk Infaq",
+      "arabic": "اأَنْفِقْ يَا ابْنَ آدَمَ يُنْفَقْ عَلَيْكَ",
+      "latin": "Anfiq yabna Aadama yunfaq ‘alaik. (HR Bukhari)",
+      "translation": "Berinfaqlah wahai anak Adam maka engkau akan dibalas"
+    },
+    {
+      "id": 11,
+      "title": "Hadits Menghibur Orang Terkena Musibah",
+      "arabic": "مَنْ عَزَّى مُصَابًا فَلَهُ مِثْلُ أَجْرِهِ",
+      "latin": "Man ‘azzaa musaaban falahu mitslu ajrih. (HR Tirmizi)",
+      "translation": "Barangsiapa menghibur orang yang tertimpa musibah, maka baginya pahala seperti orang yang tertimpa musibah"
+    },
+    {
+      "id": 12,
+      "title": "Hadits Merampas Milik Orang Lain",
+      "arabic": "مَنِ انْتَهَبَ نُهْبَةً فَلَيْسَ مِنَّا",
+      "latin": "Manintahaba nuhbatan fa laisa minnaa. (HR Tirmizi)",
+      "translation": "Siapa merampas milik orang bukan lain golongan kami"
+    },
+    {
+      "id": 13,
+      "title": "Hadits Korupsi",
+      "arabic": "لَعَنَ رَسُولُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ الرَّاشِيَ وَالْمُرْتَشِيَ",
+      "latin": "La’ana Rasulullahi (SAW) ar rasyia wal murtasyia. (HR Abu Daud)",
+      "translation": "Laknat Rasulullah (SAW) kepada orang yang menyogok dan yang disogok."
+    },
+    {
+      "id": 14,
+      "title": "Hadits Mencaci Saudara Muslim",
+      "arabic": "سِبَابُ الْمُسْلِمِ فُسُوقٌ ، وَقِتَالُهُ كُفْرٌ",
+      "latin": "Sibaabul muslimi fusuuqun wa qitaaluhu kufrun. (HR Tirmizi)",
+      "translation": "Mencaci seorang muslim adalah dosa dan memeranginya adalah kufur"
+    },
+    {
+      "id": 15,
+      "title": "Hadits Tempat Yang Dicintai Allah",
+      "arabic": "أحَبُّ الْبِلاَدِ إِلَى اللهِ مَسَاجِدُهَا",
+      "latin": "Ahabbul bilaadi ilallaahi masaajiduh. (HR Bukhari)",
+      "translation": "Tempat yang paling dicintai Allah di muka bumi adalah masjid-masjidnya"
+    },
+    {
+      "id": 16,
+      "title": "Hadits Mengamalkan Ilmu",
+      "arabic": "بَلِّـغُوْا عَنِّي وَلَوْ آيَةً",
+      "latin": "Ballighuw anniy walau aayah. (HR Bukhari)",
+      "translation": "Sampaikan dariku walau satu ayat"
+    },
+    {
+      "id": 17,
+      "title": "Hadits Kehati-hatian dan Tergesa-gesa",
+      "arabic": "اَلأَنَاةُ مِنَ اللَّهِ وَالْعَجَلَةُ مِنَ الشَّيْطَانِ",
+      "latin": "Al-anaatu minallahi wal ‘ajalatu minas syaithan. (HR Tirmizi)",
+      "translation": "Kehati-hatian datangnya dari Allah dan ketergesa-gesaan datangnya dari setan"
+    },
+    {
+      "id": 18,
+      "title": "Hadits Tentang Salam",
+      "arabic": "الَسَّلامُ قَبْلَ الكَلاَمِ",
+      "latin": "Assalamu qablal kalam. (HR Bukhari)",
+      "translation": "Ucap salam sebelum bicara"
+    },
+    {
+      "id": 19,
+      "title": "Hadits Ridha Allah",
+      "arabic": "رِضَى الرَّبِّ في رِضَى الْوَالِدِ",
+      "latin": "Ridhar Rabbii fii ridhal waalid. (HR Tirmizi)",
+      "translation": "Ridha Allah terletak di dalam ridha orangtua"
+    },
+    {
+      "id": 20,
+      "title": "Hadits Pemutus Tali Persaudaraan",
+      "arabic": "لايَدْخُلُ الْجَنَّةَ قَاطِعٌ",
+      "latin": "Laa yadkhulul jannata qaati’un. (HR Muslim)",
+      "translation": "Tidak akan masuk surga pemutus tali persaudaraan"
+    },
+    {
+      "id": 21,
+      "title": "Hadits Menutup Aib",
+      "arabic": "مَنْ سَتَرَ مُسْلِمًا سَتَرَهُ اللَّهُ يوم القيامة",
+      "latin": "Man satara musliman satarahullaahu yaumal qiyamah. (HR Muslim)",
+      "translation": "Siapa menutupi aib seorang muslim, maka Allah akan menutupi aibnya pada hari kiamat"
+    },
+    {
+      "id": 22,
+      "title": "Hadits Keutamaan Memberi",
+      "arabic": "اَلْيَدُ اْلعُلْياَ خَيْرٌ مِنَ اْليَدِ السُّفْلَى",
+      "latin": "Al yadul ulya khairun minal yadis suflaa. (HR Muslim)",
+      "translation": "Tangan di atas lebih baik daripada tangan di bawah"
+    },
+    {
+      "id": 23,
+      "title": "Hadits Berkata Jujur",
+      "arabic": "علَيْكُمْ باِلصِّدْقِ",
+      "latin": "Alaykum bis shidqi. (HR Muslim)",
+      "translation": "Hendaknya kalian berlaku jujur"
+    },
+    {
+      "id": 24,
+      "title": "Hadits Muslim Sejati",
+      "arabic": "اَلْمُسْلِمُ مَنْ سَلِمَ الْمُسْلَمُوْنَ مِنْ لِسَانِهِ وَيَدِهِ",
+      "latin": "Al muslimu man salimal muslimuuna min lisaanihii wa yadihii. (HR Bukhari)",
+      "translation": "Muslim sejati adalah orang yang selamatkan muslim lainnya dari keburukan lisannya dan kejahatan tangannya"
+    },
+    {
+      "id": 25,
+      "title": "Hadits Menunut Ilmu",
+      "arabic": "طَلَبُ الْعِلْمِ فَرِيْضَةٌ عَلَى كُلِّ مُسْلِمٍ",
+      "latin": "Tolabul ilmi faridhotun ala kulli muslimin wa Muslimah. (HR. Ibnu Majah)",
+      "translation": "Menuntut ilmu wajib bagi tiap muslim dan Muslimah"
+    },
+    {
+      "id": 26,
+      "title": "Hadits Kasih Sayang",
+      "arabic": "مَنْ لَا يَرْحَمْ لَا يُرْحَمْ",
+      "latin": "Man laa yarham laa yurham. (HR Muslim)",
+      "translation": "Barang siapa tidak menyayangi, tidak akan disayangi"
+    },
+    {
+      "id": 27,
+      "title": "Hadits Shalat",
+      "arabic": "الصلاة عماد الدين",
+      "latin": "Assholatu imaduddin. (HR. Tirmidzi dan Ibnu Majah)",
+      "translation": "Shalat adalah tiang agama"
+    },
+    {
+      "id": 28,
+      "title": "Hadits",
+      "arabic": "لدِّيْنُ النَّصِيْحَةُ",
+      "latin": "Addinu nashihah. (HR. Muslim)",
+      "translation": "Agama adalah nasehat"
+    },
+    {
+      "id": 29,
+      "title": "Hadits tentang Senyum",
+      "arabic": "تَبَسُّمُكَ فِى وَجْهِ أَخِيْكَ صَدَقَةٌ",
+      "latin": "Tabassumuka fi wajhi akhika sodaqoh. (HR at-Tirmidzi)",
+      "translation": "Senyum engkau dihadapan saudaramu adalah sedekah"
+    },
+    {
+      "id": 30,
+      "title": "Hadits Meninggalkan Hal Tidak Berguna",
+      "arabic": "مِنْ حُسْنِ الْإِسلاَمِ الْمَرْءِ تَرْكُهُ مَا لاَ يَعْنِيْهِ",
+      "latin": "Min husnil islamil mar’i tarquhu maa laa ya’ nih. (HR. Tirmidzi)",
+      "translation": "Sebagian dari kebaikan Islam, seseorang meninggalkan sesuatu yang tidak berguna"
+    },
+    {
+      "id": 31,
+      "title": "Hadits Mencintai Sesama Muslim",
+      "arabic": "لاَ يُؤْمِنُ أَحَدُكُمْ حَتَّى يُحِبَّ لأَخِيْهِ مَا يُحِبُّ لِنَفْسِهِ",
+      "latin": "Laa yu’minu ahadukum hatta yuhibba liakhihi maa yuhibba linafsih. (HR. Bukhari dan Muslim)",
+      "translation": "Tidak sempurna iman seseorang, sehingga dia mencintai saudaranya seperti mencintai dirinya sendiri"
+    },
+    {
+      "id": 32,
+      "title": "Hadits Anjuran Berkata Baik",
+      "arabic": "من كان يؤمن بالله واليوم الاخر فليقل خيراً أو ليصمت",
+      "latin": "Man kaa na yu’minu billahi wal yaumil akhiri falyaqul khoiron auliyasmut. (HR Bukhari, Muslim dan Ahmad)",
+      "translation": "Barang siapa yang beriman kepada Allah dan hari akhirat, maka berkatalah yang baik atau diam"
+    },
+    {
+      "id": 33,
+      "title": "Hadits Memuliakan Tamu",
+      "arabic": "من كان ىءمن بالله واليوم الاخر فليكرم ضيفه",
+      "latin": "Man kaa na yu’minu billahi wal yaumil akhiri falyukrim dhoifah. (HR. Bukhari)",
+      "translation": "Barangsiapa beriman kepada Allah dan hari akhirat maka hendaklah memuliakan tamu"
+    },
+    {
+      "id": 34,
+      "title": "Hadits Dosa Lisan",
+      "arabic": "أَكْثَرُ خَطَايَا ابْنِ آدَمَ فىِ لِسَانِهِ",
+      "latin": "Aktsaru khotoyabni aadama fii lisanih. (HR ath-Thabraniy)",
+      "translation": "Kebanyakan dosa anak-anak Adam itu ada pada lisannya"
+    },
+    {
+      "id": 35,
+      "title": "Hadits Memberi Hadiah",
+      "arabic": "تَهَادُوْا تَحَابُّوْا",
+      "latin": "Tahaadu tahabbu. (HR Al-Bukhari)",
+      "translation": "Saling memberi hadiahlah maka kalian akan saling mencintai"
+    },
+    {
+      "id": 36,
+      "title": "Hadits Berterima Kasih",
+      "arabic": "مَنْ لَا يَشْكُرُ النَّاسَ لَا يَشْكُرُ اللَّهَ",
+      "latin": "Manla yasykurinnasa laa yasykurillah. (H.R Ahmad dan Baihaqi)",
+      "translation": "Barangsiapa yang tidak bersyukur kepada manusia, berarti tidak bersyukur kepada Allah"
+    },
+    {
+      "id": 37,
+      "title": "Hadits tentang Malu",
+      "arabic": "اَلْحَيَاءُ مِنَ الْإِيْمَانِ",
+      "latin": "Al haya’u minal iiman. (HR. Bukhari dan Muslim)",
+      "translation": "Malu adalah sebagian dari iman"
+    },
+    {
+      "id": 38,
+      "title": "Hadits tentang Akhlak",
+      "arabic": "اكمل المؤمنين ايمانا احسنهم خلقا",
+      "latin": "Akmalul mu’miniina iimaanan ahsanuhum khuluqoo. (HR. Muslim)",
+      "translation": "Orang yang sempurna imannya adalah yang paling baik akhlaknya"
+    },
+    {
+      "id": 39,
+      "title": "Hadits tentang Pencela",
+      "arabic": "لَا يَدْخُلُ الْجَنَّةُ نَمَّامٌ",
+      "latin": "Laa yadkhulul jannatu nammam. (HR Muslim)",
+      "translation": "Tidak masuk surga orang yang suka mencela"
+    },
+    {
+      "id": 40,
+      "title": "Hadits Keindahan",
+      "arabic": "إِنَّ اللَّهَ جَمِيلٌ يُحِبُّ الْجَمَالَ",
+      "latin": "Innallaha jamiilun yuhibbuljamaal. (HR Muslim)",
+      "translation": "Sesungguhnya Allah itu indah dan mencintai keindahan"
+    },
+    {
+      "id": 41,
+      "title": "Hadits Menyesal",
+      "arabic": "الندم توبة",
+      "latin": "An nadamu taubah. (HR Abu Dawud & Hakim)",
+      "translation": "Menyesal itu adalah tobat"
+    },
+    {
+      "id": 42,
+      "title": "Hadits Menyakiti Mukmin",
+      "arabic": "سِبَابُ الْمُسْلِمِ فُسُوقٌ وَقِتَالُهُ كُفْرٌ",
+      "latin": "Sibaabul muslimi fusuuqun wa qitaaluhu kufr. (HR Bukhari dan Muslim)",
+      "translation": "Mencaci seorang muslim adalah kefasikan dan membunuhnya adalah kekufuran"
+    },
+    {
+      "id": 43,
+      "title": "Hadits Meninggalkan Keraguan",
+      "arabic": "دَعْ مَا يَرِيْبُكَ إِلَى مَا لَا يَرِيْبُكَ",
+      "latin": "Da’maa yariibuka ila maa yariibuka. (HR. Tirmidzi dan An Nasa’i)",
+      "translation": "Tinggalkan apa yang engkau ragukan dan kerjakan apa yang engkau tidak ragu"
+    },
+    {
+      "id": 44,
+      "title": "Hadits Memilih Teman",
+      "arabic": "الرَّجُلُ عَلَى دِيْنِ خَلِيلِهِ، فَلْيَنْظُرْ أَحَدُكُمْ مَنْ يُخَالِلُ",
+      "latin": "Arrajulu ‘ala diini khalilii fal yandzhur ahadukum man yukhalil. (HR. Tirmidzi)",
+      "translation": "Seseorang itu tergantung pada agama temannya. Oleh karena itu, salah satu di antara kalian hendaknya memperhatikan siapa yang dia jadikan teman"
+    },
+    {
+      "id": 45,
+      "title": "Hadits Silaturahim",
+      "arabic": "مَنْ أَحَبَّ أَنْ يُبْسَطَ لَهُ فِي رِزْقِهِ وَأَنْ يُنْسَأَ لَهُ فِي أَثَرِهِ فَليَصِلْ رَحِمَهُ",
+      "latin": "Man ahabba ayyubsatha lahu firrizqihi, wa anyunsa’ a lahu fii atsrihi fal yashil rahimahu. (HR. Bukhari)",
+      "translation": "Barang siapa yang ingin diluaskan rezekinya dan dipanjangkan umurnya, maka hendaklah ia menyambung silaturahim"
+    },
+    {
+      "id": 46,
+      "title": "Hadits Menutup Aurat",
+      "arabic": "اِنَّا نُهِيْنَا اَنْ نُرَى عَوْرَاتَنَا",
+      "latin": "Innaa nuhíínaa annuraa 'auraatanaa. (HR. Imam Ahmad)",
+      "translation": "Sesungguhnya kita dilarang menampakkan aurat kita"
+    },
+    {
+      "id": 47,
+      "title": "Hadits tentang Makan",
+      "arabic": "يَا غُلَامُ، سَمِّ اللهَ، وَكُلْ بِيَمِينِكَ، وَكُلْ مِمَّا يَلِيكَ",
+      "latin": "Yaa 'ghulaamu, sammii llaha, wakul biyamiinika, wak mimmaa yaliika. (HR. Bukhari dan Muslim)",
+      "translation": "Wahai anak kecil, bacalah basmalah dan makanlah dengan tangan kananmu dan ambilah yang terdekat darimu"
+    },
+    {
+      "id": 48,
+      "title": "Hadits Tolong Menolong",
+      "arabic": "اللّٰهُ فِي عَوْنِ الْعَبْدِ مَا كَانَ الْعَبْدُ فِي عَوْنِ أَخِيْهِ",
+      "latin": "Allahú fii 'auniil 'abdimaa kaanaal 'abdu fii 'auni akhiihi. (HR. Muslim)",
+      "translation": "Allah senantiasa menolong hambaNya, selama hambaNya suka menolong saudaranya"
+    },
+    {
+      "id": 49,
+      "title": "Hadits Larangan Berbuat Kerusakan",
+      "arabic": "لاَ ضَرَرَ وَلاَ ضِرَارَ",
+      "latin": "Laadharara walaa dhiraara. (HR. Ibnu Majah)",
+      "translation": "Janganlah engkau saling membahayakan dan jangan saling merugikan"
+    },
+    {
+      "id": 50,
+      "title": "Hadits Larangan Laki-laki dan Permepuan Berduaan",
+      "arabic": "لاَ يَخْلُوَنَّ رَجُلٌ بِامْرَأَةٍ إِلاَّ كَانَ ثَالِثَهُمَا الشَّيْطَانُ",
+      "latin": "Laa yakhluwanna rojulu biimra'atin 'illakaana tsaa litsahumaas syaitanu. (HR. Tirmidzi dan Ahmad)",
+      "translation": "Tidaklah seorang pria berduaan dengan seorang wanita kecuali yang ketiganya adalah setan"
+    },
+    {
+      "id": 51,
+      "title": "Hadits Waktu dan Kesehatan",
+      "arabic": "نِعْمَتَانِ مَغْبُوْنٌ فِيْهِمَا كَثِيْرٌ مِنَ النَّاسِ: الْفَرَاغُ وَالصِّحَّةُ",
+      "latin": "Ni'mataani ma'ghbuunu fiihímaa katsiiru minannaasi ; Alfaraa'ghu washshihhatú. (HR. Bukhari)",
+      "translation": "Ada dua nikmat yang kebanyakan orang merugi padanya: waktu luang dan kesehatan"
+    },
+    {
+      "id": 52,
+      "title": "Hadits Manusia Yang Bermanfaat",
+      "arabic": "خَيْرُ النَّاسِ أَنْفَعُهُمْ لِلنَّاسِ",
+      "latin": "Khaairuun naasi anfa'uhúm liinnaasi. (HR. Tirmidzi)",
+      "translation": "Sebaik-baiknya manusia adalah yang paling bermanfaat bagi manusia lain"
+    },
+    {
+      "id": 53,
+      "title": "Hadits Keikhlasan Beramal",
+      "arabic": "اِنَّ اللهَ لاَ يَنْظُرُ اِلىَ اَجْسَامِكُمْ وَلاَ اِلىَ صُوَرِكُمْ وَ لٰكِنْ يَنْظُرُ اِلىَ قُلُوْبِكُمْ",
+      "latin": "Innaallaha la yanzhuru ilaa ajsaamikum walaa ilaa shuwarikum walaakin yanzhuru ilaa quluubikum. (HR Muslim)",
+      "translation": "Sesungguhnya Allah tidak menilai tubuh kalian, dan tidak menilai rupa kalian, tetapi Allah menilai terhadap hati kalian"
+    }
+  ]
+}
